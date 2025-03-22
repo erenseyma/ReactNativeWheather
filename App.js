@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { View, Text, StyleSheet, ImageBackground, ActivityIndicator } from "react-native";
 import axios from "axios";
 
-const API_KEY = "87f226213453bf73c3bb3b4fc73ff2eb"; // Buraya kendi API anahtarını yaz
+const API_KEY = "87f226213453bf73c3bb3b4fc73ff2eb"; 
 const CITY = "Bursa";
 
 
